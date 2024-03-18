@@ -1,5 +1,5 @@
 ### Hi👋,I'm Dhatri Rudram
-                           ##A passionate Data Analyst📊 from India
+                           ## A passionate Data Analyst📊 from India
 - 🔭 I’m a life long learner, currently exploring more about Data Analytics!
 - 🌱 I’m currently learning and upskilling myself.
 - 🧰 My analytics toolbox contains Python , Machine Learning , Power BI, SQL & MS Excel.
