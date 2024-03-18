@@ -1,6 +1,7 @@
-### Hi👋,I'm Dhatri Rudram
-**------------------------------------------------------------------**
+Hi👋,I'm Dhatri Rudram  
+------------------------------------------------------------------  
 **A passionate Data Analyst📊 from India**
+
 
 - 🔭 I’m a life long learner, currently exploring more about Data Analytics!
 - 🌱 I’m currently learning and upskilling myself.
