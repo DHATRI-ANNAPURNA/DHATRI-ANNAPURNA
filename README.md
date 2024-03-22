@@ -9,6 +9,6 @@ Hi👋,I'm Dhatri Rudram
 - 📚 Specialized in data collection, data cleaning, data analysis, and data visualization.
 - 💬 Ask me about Python,Machine Learning.
 - 📫 Reach me at Gmail - rudramdhatriannapurna@gmail.com
-- 🔗 Connect with me at LinkedIn - www.linkedin.com/in/rastogi-sanya/
+- 🔗 Connect with me at LinkedIn -www.linkedin.com/in/dhatri-rudram-36b885193/
 - ❤️ I love learning new things!
 -->
